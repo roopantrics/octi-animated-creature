@@ -39,7 +39,7 @@ and problem-solving.
 
 | Item | Quantity | Cost (₹) |
 |-----|---------|----------|
-| 28BYJ-48 + ULN2003 | 2 | 119 |
+| 28BYJ-48 Stepper Motor + ULN2003 Stepper Motor Driver | 2 | 119 |
 | NodeMCU ESP8266 | 1 | 189 |
 | 3D Printed Octopus | 1 | 224 |
 | **Total** |  | **~651** |

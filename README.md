@@ -15,6 +15,13 @@ and problem-solving.
 
 ---
 
+## 🎬 Project Video
+
+Watch Octi in action on YouTube:  
+https://www.youtube.com/watch?v=GHYv1o_LDxk
+
+---
+
 ## Philosophy
 
 **Engineering.**  

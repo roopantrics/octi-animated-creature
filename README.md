@@ -60,5 +60,5 @@ and problem-solving.
 
 ![Octi – ESP8266 to ULN2003 Pin Connections](rsc/octi-connection.png)
 
-The complete control logic is available in:
+The complete control logic is available in oct.cpp file
 

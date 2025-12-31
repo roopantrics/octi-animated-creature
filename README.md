@@ -68,3 +68,13 @@ and problem-solving.
 
 The complete control logic is available in oct.cpp file
 
+---
+
+## Using the Code
+
+1. Download or clone this repository
+2. Open Arduino IDE
+3. Create a new sketch named `octi`
+4. Copy the contents of `code/octi.cpp` into the sketch
+5. Select **NodeMCU ESP8266** as the board
+6. Upload

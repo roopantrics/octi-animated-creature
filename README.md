@@ -9,6 +9,12 @@ and problem-solving.
 
 ---
 
+## Meet Octi
+
+![Octi](rsc/octi.png)
+
+---
+
 ## Philosophy
 
 **Engineering.**  
